@@ -37,3 +37,5 @@
 ### Look-ahead and Look-behind
 
 ## Author
+
+My name is Mike Jordan, and I am studying to become a softeare engineer. I hope to graduate from this class on November 17th, and enter the software engineering field. I am excited to continue learning and growing as an engineer. added author text
