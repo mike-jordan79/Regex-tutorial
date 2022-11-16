@@ -2,7 +2,12 @@
 
 A regex, or regular expression is lines of code that implements variables and allows the developer to pull info from a string. These lines can be adjusted based on the users needs. An example of this would be pulling text from 
 
+## Summary
 
+````/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/````
+<br /> <br />
+
+This regex should match urls from websites based on text, and is primarily used to verify information. There are five main capture groups, the anchors, the character classes, quantifiers, bracket expressions, and greedy and lazy matches. Translated, this should read in English as, “find a string of information that contains “https:// “ where the s is optional. The string must also have a token with randomized length of characters a-z. It should also follow with a token that contains 2-6 characters from a-z including dots. It may also contain a token that has a slash followed by numbers, spaces, letters, dots and/or dashes.” The beginning and ending slashes in the string represent the beg. and end of the string.
 
 
  [Anchors](#anchors)
