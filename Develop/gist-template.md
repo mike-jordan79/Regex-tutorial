@@ -1,5 +1,10 @@
 # Title Regex Tutorial
 
+A regex, or regular expression is lines of code that implements variables and allows the developer to pull info from a string. These lines can be adjusted based on the users needs. An example of this would be pulling text from 
+
+
+
+
  [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
 - [OR Operator](#or-operator)
