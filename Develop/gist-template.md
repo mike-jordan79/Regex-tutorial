@@ -19,7 +19,9 @@ This regex should match urls from websites based on text, and is primarily used 
 ## Regex Components
 
 ### Anchors
-
+Anchors are used to tie the regex to an expression, so it does not appear as randomized characters. In this particular regex, the symbols ^ and $ show the beginning and end of this string. 
+<br /> <br />
+````^(https?:\/\/)?```` and ````*\/?$````
 ### Quantifiers
 
 ### OR Operator
@@ -42,4 +44,4 @@ This regex should match urls from websites based on text, and is primarily used 
 
 ## Author
 
-My name is Mike Jordan, and I am studying to become a softeare engineer. I hope to graduate from this class on November 17th, and enter the software engineering field. I am excited to continue learning and growing as an engineer. added author text
+My name is Mike Jordan, and I am studying to become a softeare engineer. I hope to graduate from this class on November 17th, and enter the software engineering field. I am excited to continue learning and growing as an engineer. 
