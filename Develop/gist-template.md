@@ -1,5 +1,4 @@
-# RegEx Tutorial: Matching a URL
-
+# RegEx Tutorial: linking a URL
 A regex, or regular expression is lines of code that implements variables and allows the developer to pull info from a string. These lines can be adjusted based on the users needs. An example of this would be pulling text from 
 
 ## Summary
